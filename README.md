@@ -1,8 +1,6 @@
 # LanSeek
 
-LanSeek - LAN Device Scanner 
-
-网寻 - 局域网设备扫描器
+LanSeek - LAN Device Scanner  网寻 - 局域网设备扫描器
 
 ----------------------------------------
 
@@ -10,11 +8,7 @@ LanSeek - LAN Device Scanner
 
 ------
 
-LanSeek - LAN Device Scanner 
-
-Easily scan device information on the local network.
-
-轻松扫描局域网内设备信息
+Easily scan device information on the local network.  轻松扫描局域网内设备信息
 
 ------
 
